@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1,DISCOVERY TURBO
-http://158.69.117.73:8000/live/live/1303.ts1494.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://158.69.117.73:8000/live/live/1303.ts1492.ts
-#EXTINF:-1,DISCOVERY KIDS
-http://158.69.117.73:8000/live/live/1303.ts1475.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://158.69.117.73:8000/live/live/1303.ts1493.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://158.69.117.73:8000/live/live/1303.ts1488.ts
-#EXTINF:-1,Investigacion Discovery (s1)
-http://158.69.117.73:8000/live/live/1303.ts1212.ts
+#EXTINF:-1,Discovery Channel
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17069.ts
+#EXTINF:-1,Discovery Civilization
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17068.ts
+#EXTINF:-1,Discovery Investigation
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17067.ts
+#EXTINF:-1,Discovery Teather HD
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17065.ts
+#EXTINF:-1,Discovery TLC
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17064.ts
+#EXTINF:-1,Discovery Turbo
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17063.ts
+#EXTINF:-1,DISCOVERY  HOME & HEALTH
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/18988.ts
+#EXTINF:-1,DISCOVERY SCIENCE.
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/18986.ts
+#EXTINF:-1,DISCOVERY WORLD
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/18985.ts
