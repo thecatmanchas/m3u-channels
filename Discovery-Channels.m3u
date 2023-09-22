@@ -1,13 +1,17 @@
-#EXTM3U
-#EXTINF:-1,Investigation Discovery
-http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?
-#EXTINF:-1,Discovery Home & Health
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?
-#EXTINF:-1,Discovery Channel
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
-#EXTINF:-1,Discovery Science
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
-#EXTINF:-1,Discovery Turbo
-http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?
-#EXTINF:-1,TLC Discovery
-http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JJIs6gtMFImNsUjm6oL1YRNhl5D8ObimpS4babMI9gM7VIIEkLtSYiRGXZ7gnYpenw.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
+http://192.187.125.194:25461/catitohuguetmelo/catitomelo2023/5375
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JEmSn-dFhZEvr_KKPZvmb8pH6YLas5FTdQK-EBycA8kV_hfLVwmuvmbfudj5MIXVJw.png" group-title="MUNDO Y CULTURA",DISCOVERY FAMILY
+http://192.187.125.194:25461/catitohuguetmelo/catitomelo2023/5371
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="http://104.149.129.41:80/images/QCqX5p5x3Y181Q8jwb82JChVN-kyrElhH-ZMdz6BSb9X6cDYzdv673PUgA-yBHYh.png" group-title="MUNDO Y CULTURA",DISCOVERY HOME AND HEALTH
+http://192.187.125.194:25461/catitohuguetmelo/catitomelo2023/5370
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JPDqukbQTCdLmMq5dcZt6mxi2Wfvcvs45Wl5z6ucUVo4.png" group-title="MUNDO Y CULTURA",DISCOVERY ID
+http://192.187.125.194:25461/catitohuguetmelo/catitomelo2023/5377
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://104.149.129.41:80/images/QCqX5p5x3Y181Q8jwb82JMzEQQYOA7spJfnP_x8T1o0HlTeau8UKEFkHB4vS-UA67icwXLF07e_Cl7tqWhbW2A.png" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE
+http://192.187.125.194:25461/catitohuguetmelo/catitomelo2023/5378
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://104.149.129.41:80/images/QCqX5p5x3Y181Q8jwb82JCpkuofWRNqbwEma2-F4oQYIANekiYEiTOf7HIBtAty_.png" group-title="MUNDO Y CULTURA",DISCOVERY THEATER
+http://192.187.125.194:25461/catitohuguetmelo/catitomelo2023/5373
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://104.149.129.41:80/images/QCqX5p5x3Y181Q8jwb82JOAhvg94qkx7e4ucmwzvuBbXkyvgICH9oU8LdFkvJXKj.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO
+http://192.187.125.194:25461/catitohuguetmelo/catitomelo2023/5372
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://104.149.129.41:80/images/QCqX5p5x3Y181Q8jwb82JPJHcaHs9f8Ihe0eqk4BLlKm4EbOG8ErHAGKtsOAPOcF.png" group-title="MUNDO Y CULTURA",DISCOVERY WORLD
+http://192.187.125.194:25461/catitohuguetmelo/catitomelo2023/5374
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://15.204.172.102:80/images/QCqX5p5x3Y181Q8jwb82JFzW2U2fNvrVdO2LuBodNbqLXdZGaTJimS5fJ-GbEQO4.png" group-title="INFANTILES",DISCOVERY KIDS
